@@ -1,0 +1,29 @@
+.home-container {
+  width: 100%;
+  max-width: 600px;  /* keeps content centered and neat */
+  margin: 30px auto;
+  padding: 30px;
+  border: 2px solid #6d396b;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+
+.home-img {
+  width: 150px;   /* adjust size */
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.home-heading {
+  font-size: 28px;
+  font-weight: bold;
+  color: #6d396b;
+  margin-bottom: 10px;
+}
+
+.home-description {
+  font-size: 16px;
+  color: #444;
+}
